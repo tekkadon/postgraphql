@@ -1,1 +1,1 @@
-web: ./postgraphql
+web: pwd
