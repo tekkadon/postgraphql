@@ -1,1 +1,1 @@
-web: pwd
+web: node postgraphql
